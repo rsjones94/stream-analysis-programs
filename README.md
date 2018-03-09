@@ -21,4 +21,4 @@ surveyCleaner.R	- separates stream survey data using the description field of a 
 
 surveyStretch.R	- uses user-designated points to stretch or compress stream profiles to reduce year-to-year profile length deviation due to changes in real or assumed thalweg path. Points designated are assumed to be immovable, e.g., rock and log structures
 
-xsReduction.xlsx - Uses as stochastic algorithm to reduce the number of shots in a cross section for the purposes of fitting the shots onto a chart
+xsReduction.xlsx - Uses a simple stochastic algorithm to reduce the number of shots in a cross section for the purposes of fitting the shots onto a chart
